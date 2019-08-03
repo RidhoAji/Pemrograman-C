@@ -1,1 +1,3 @@
 welcome journey
+please select a way
+side by side
